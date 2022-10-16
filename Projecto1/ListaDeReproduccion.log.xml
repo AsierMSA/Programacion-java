@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T10:24:27.604783100Z</date>
+  <millis>1665311067604</millis>
+  <nanos>783100</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T10:24:27.635779Z</date>
+  <millis>1665311067635</millis>
+  <nanos>779000</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T10:24:27.636779900Z</date>
+  <millis>1665311067636</millis>
+  <nanos>779900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero Pentatonix no video.txt</message>
+</record>
+<record>
+  <date>2022-10-09T10:24:27.636779900Z</date>
+  <millis>1665311067636</millis>
+  <nanos>779900</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T10:24:27.637781300Z</date>
+  <millis>1665311067637</millis>
+  <nanos>781300</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T10:24:27.638787700Z</date>
+  <millis>1665311067638</millis>
+  <nanos>787700</nanos>
+  <sequence>5</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:17:39.853272800Z</date>
+  <millis>1665328659853</millis>
+  <nanos>272800</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:18:13.855381300Z</date>
+  <millis>1665328693855</millis>
+  <nanos>381300</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:19:14.430742400Z</date>
+  <millis>1665328754430</millis>
+  <nanos>742400</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:21:34.043190600Z</date>
+  <millis>1665328894043</millis>
+  <nanos>190600</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:22:03.747158700Z</date>
+  <millis>1665328923747</millis>
+  <nanos>158700</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:23:17.752419200Z</date>
+  <millis>1665328997752</millis>
+  <nanos>419200</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:23:17.788404800Z</date>
+  <millis>1665328997788</millis>
+  <nanos>404800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:23:17.788404800Z</date>
+  <millis>1665328997788</millis>
+  <nanos>404800</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero Pentatonix no video.txt</message>
+</record>
+<record>
+  <date>2022-10-09T15:23:17.789407500Z</date>
+  <millis>1665328997789</millis>
+  <nanos>407500</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:23:17.789407500Z</date>
+  <millis>1665328997789</millis>
+  <nanos>407500</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:23:17.790406900Z</date>
+  <millis>1665328997790</millis>
+  <nanos>406900</nanos>
+  <sequence>5</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:26:02.672929600Z</date>
+  <millis>1665329162672</millis>
+  <nanos>929600</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:26:02.702956800Z</date>
+  <millis>1665329162702</millis>
+  <nanos>956800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:26:02.703932800Z</date>
+  <millis>1665329162703</millis>
+  <nanos>932800</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero Pentatonix no video.txt</message>
+</record>
+<record>
+  <date>2022-10-09T15:26:02.703932800Z</date>
+  <millis>1665329162703</millis>
+  <nanos>932800</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:26:02.704961700Z</date>
+  <millis>1665329162704</millis>
+  <nanos>961700</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:26:02.704961700Z</date>
+  <millis>1665329162704</millis>
+  <nanos>961700</nanos>
+  <sequence>5</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:42:24.146153100Z</date>
+  <millis>1665330144146</millis>
+  <nanos>153100</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:24.187153800Z</date>
+  <millis>1665330144187</millis>
+  <nanos>153800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:24.188153400Z</date>
+  <millis>1665330144188</millis>
+  <nanos>153400</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:24.188153400Z</date>
+  <millis>1665330144188</millis>
+  <nanos>153400</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:24.189153600Z</date>
+  <millis>1665330144189</millis>
+  <nanos>153600</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:42:44.730526200Z</date>
+  <millis>1665330164730</millis>
+  <nanos>526200</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:44.757521900Z</date>
+  <millis>1665330164757</millis>
+  <nanos>521900</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:44.758520900Z</date>
+  <millis>1665330164758</millis>
+  <nanos>520900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:44.758520900Z</date>
+  <millis>1665330164758</millis>
+  <nanos>520900</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:42:44.759518100Z</date>
+  <millis>1665330164759</millis>
+  <nanos>518100</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:44:15.767742600Z</date>
+  <millis>1665330255767</millis>
+  <nanos>742600</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:15.800732800Z</date>
+  <millis>1665330255800</millis>
+  <nanos>732800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:15.801735800Z</date>
+  <millis>1665330255801</millis>
+  <nanos>735800</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:15.801735800Z</date>
+  <millis>1665330255801</millis>
+  <nanos>735800</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:15.802734700Z</date>
+  <millis>1665330255802</millis>
+  <nanos>734700</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:44:32.854029600Z</date>
+  <millis>1665330272854</millis>
+  <nanos>29600</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:32.891065100Z</date>
+  <millis>1665330272891</millis>
+  <nanos>65100</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:32.892032300Z</date>
+  <millis>1665330272892</millis>
+  <nanos>32300</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:32.893032100Z</date>
+  <millis>1665330272893</millis>
+  <nanos>32100</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:44:32.893032100Z</date>
+  <millis>1665330272893</millis>
+  <nanos>32100</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:46:22.998612500Z</date>
+  <millis>1665330382998</millis>
+  <nanos>612500</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:23.030612Z</date>
+  <millis>1665330383030</millis>
+  <nanos>612000</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:23.033616200Z</date>
+  <millis>1665330383033</millis>
+  <nanos>616200</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:23.035621700Z</date>
+  <millis>1665330383035</millis>
+  <nanos>621700</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:23.036624Z</date>
+  <millis>1665330383036</millis>
+  <nanos>624000</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T15:46:57.462391100Z</date>
+  <millis>1665330417462</millis>
+  <nanos>391100</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:57.499299200Z</date>
+  <millis>1665330417499</millis>
+  <nanos>299200</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:57.500295700Z</date>
+  <millis>1665330417500</millis>
+  <nanos>295700</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:57.500295700Z</date>
+  <millis>1665330417500</millis>
+  <nanos>295700</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-09T15:46:57.501290900Z</date>
+  <millis>1665330417501</millis>
+  <nanos>290900</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-11T10:09:55.532063500Z</date>
+  <millis>1665482995532</millis>
+  <nanos>63500</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:09:55.626061600Z</date>
+  <millis>1665482995626</millis>
+  <nanos>61600</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:09:55.629603600Z</date>
+  <millis>1665482995629</millis>
+  <nanos>603600</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:09:55.633063400Z</date>
+  <millis>1665482995633</millis>
+  <nanos>63400</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:09:55.636058400Z</date>
+  <millis>1665482995636</millis>
+  <nanos>58400</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-11T10:17:06.557605500Z</date>
+  <millis>1665483426557</millis>
+  <nanos>605500</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:17:06.592599800Z</date>
+  <millis>1665483426592</millis>
+  <nanos>599800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:17:06.592599800Z</date>
+  <millis>1665483426592</millis>
+  <nanos>599800</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:17:06.593601500Z</date>
+  <millis>1665483426593</millis>
+  <nanos>601500</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T10:17:06.594602300Z</date>
+  <millis>1665483426594</millis>
+  <nanos>602300</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-11T11:58:28.878312300Z</date>
+  <millis>1665489508878</millis>
+  <nanos>312300</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T11:58:28.934089Z</date>
+  <millis>1665489508934</millis>
+  <nanos>89000</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T11:58:28.936086300Z</date>
+  <millis>1665489508936</millis>
+  <nanos>86300</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T11:58:28.937092400Z</date>
+  <millis>1665489508937</millis>
+  <nanos>92400</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T11:58:28.937177400Z</date>
+  <millis>1665489508937</millis>
+  <nanos>177400</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-11T12:09:48.457097300Z</date>
+  <millis>1665490188457</millis>
+  <nanos>97300</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T12:09:48.510881700Z</date>
+  <millis>1665490188510</millis>
+  <nanos>881700</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T12:09:48.514854Z</date>
+  <millis>1665490188514</millis>
+  <nanos>854000</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T12:09:48.515851700Z</date>
+  <millis>1665490188515</millis>
+  <nanos>851700</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-11T12:09:48.517941300Z</date>
+  <millis>1665490188517</millis>
+  <nanos>941300</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T10:51:46.772056500Z</date>
+  <millis>1665571906772</millis>
+  <nanos>56500</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:51:46.861123800Z</date>
+  <millis>1665571906861</millis>
+  <nanos>123800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:51:46.865075300Z</date>
+  <millis>1665571906865</millis>
+  <nanos>75300</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:51:46.867057600Z</date>
+  <millis>1665571906867</millis>
+  <nanos>57600</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:51:46.868058100Z</date>
+  <millis>1665571906868</millis>
+  <nanos>58100</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T10:55:31.256790900Z</date>
+  <millis>1665572131256</millis>
+  <nanos>790900</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:55:31.290848700Z</date>
+  <millis>1665572131290</millis>
+  <nanos>848700</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:55:31.291789Z</date>
+  <millis>1665572131291</millis>
+  <nanos>789000</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:55:31.291789Z</date>
+  <millis>1665572131291</millis>
+  <nanos>789000</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:55:31.292793600Z</date>
+  <millis>1665572131292</millis>
+  <nanos>793600</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T10:56:07.088311700Z</date>
+  <millis>1665572167088</millis>
+  <nanos>311700</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:07.124568600Z</date>
+  <millis>1665572167124</millis>
+  <nanos>568600</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:07.125324700Z</date>
+  <millis>1665572167125</millis>
+  <nanos>324700</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:07.126320300Z</date>
+  <millis>1665572167126</millis>
+  <nanos>320300</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:07.127312Z</date>
+  <millis>1665572167127</millis>
+  <nanos>312000</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T10:56:28.065618500Z</date>
+  <millis>1665572188065</millis>
+  <nanos>618500</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:28.117498Z</date>
+  <millis>1665572188117</millis>
+  <nanos>498000</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:28.119495Z</date>
+  <millis>1665572188119</millis>
+  <nanos>495000</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:28.120535300Z</date>
+  <millis>1665572188120</millis>
+  <nanos>535300</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T10:56:28.121496400Z</date>
+  <millis>1665572188121</millis>
+  <nanos>496400</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:06:43.706976200Z</date>
+  <millis>1665572803706</millis>
+  <nanos>976200</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:06:43.771965400Z</date>
+  <millis>1665572803771</millis>
+  <nanos>965400</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:06:43.773059200Z</date>
+  <millis>1665572803773</millis>
+  <nanos>59200</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:06:43.773059200Z</date>
+  <millis>1665572803773</millis>
+  <nanos>59200</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:06:43.774332300Z</date>
+  <millis>1665572803774</millis>
+  <nanos>332300</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:07:25.745195200Z</date>
+  <millis>1665572845745</millis>
+  <nanos>195200</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:25.813346800Z</date>
+  <millis>1665572845813</millis>
+  <nanos>346800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:25.816180700Z</date>
+  <millis>1665572845816</millis>
+  <nanos>180700</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:25.817447100Z</date>
+  <millis>1665572845817</millis>
+  <nanos>447100</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:25.818222100Z</date>
+  <millis>1665572845818</millis>
+  <nanos>222100</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:07:48.242817600Z</date>
+  <millis>1665572868242</millis>
+  <nanos>817600</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:48.290658500Z</date>
+  <millis>1665572868290</millis>
+  <nanos>658500</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:48.291659900Z</date>
+  <millis>1665572868291</millis>
+  <nanos>659900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:48.291659900Z</date>
+  <millis>1665572868291</millis>
+  <nanos>659900</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:07:48.292659200Z</date>
+  <millis>1665572868292</millis>
+  <nanos>659200</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:08:16.091477800Z</date>
+  <millis>1665572896091</millis>
+  <nanos>477800</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:08:16.135460800Z</date>
+  <millis>1665572896135</millis>
+  <nanos>460800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:08:16.136462Z</date>
+  <millis>1665572896136</millis>
+  <nanos>462000</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:08:16.136526Z</date>
+  <millis>1665572896136</millis>
+  <nanos>526000</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:08:16.137461100Z</date>
+  <millis>1665572896137</millis>
+  <nanos>461100</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:09:25.894118700Z</date>
+  <millis>1665572965894</millis>
+  <nanos>118700</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:09:25.978243400Z</date>
+  <millis>1665572965978</millis>
+  <nanos>243400</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:09:25.979244900Z</date>
+  <millis>1665572965979</millis>
+  <nanos>244900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:09:25.980285900Z</date>
+  <millis>1665572965980</millis>
+  <nanos>285900</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:09:25.981248700Z</date>
+  <millis>1665572965981</millis>
+  <nanos>248700</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:10:23.649296200Z</date>
+  <millis>1665573023649</millis>
+  <nanos>296200</nanos>
+  <sequence>5</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:11:38.757563300Z</date>
+  <millis>1665573098757</millis>
+  <nanos>563300</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:11:38.791211800Z</date>
+  <millis>1665573098791</millis>
+  <nanos>211800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:11:38.792569800Z</date>
+  <millis>1665573098792</millis>
+  <nanos>569800</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:11:38.793019500Z</date>
+  <millis>1665573098793</millis>
+  <nanos>19500</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:11:38.793564300Z</date>
+  <millis>1665573098793</millis>
+  <nanos>564300</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:13:25.530999200Z</date>
+  <millis>1665573205530</millis>
+  <nanos>999200</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:13:25.582201800Z</date>
+  <millis>1665573205582</millis>
+  <nanos>201800</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:13:25.584263600Z</date>
+  <millis>1665573205584</millis>
+  <nanos>263600</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:13:25.584821Z</date>
+  <millis>1665573205584</millis>
+  <nanos>821000</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:13:25.585843Z</date>
+  <millis>1665573205585</millis>
+  <nanos>843000</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:14:03.620742300Z</date>
+  <millis>1665573243620</millis>
+  <nanos>742300</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:14:03.650795200Z</date>
+  <millis>1665573243650</millis>
+  <nanos>795200</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:14:03.651737900Z</date>
+  <millis>1665573243651</millis>
+  <nanos>737900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:14:03.651737900Z</date>
+  <millis>1665573243651</millis>
+  <nanos>737900</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:14:03.651737900Z</date>
+  <millis>1665573243651</millis>
+  <nanos>737900</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:15:47.285493700Z</date>
+  <millis>1665573347285</millis>
+  <nanos>493700</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:15:47.317499300Z</date>
+  <millis>1665573347317</millis>
+  <nanos>499300</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:15:47.318526300Z</date>
+  <millis>1665573347318</millis>
+  <nanos>526300</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:15:47.319493600Z</date>
+  <millis>1665573347319</millis>
+  <nanos>493600</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:15:47.319842100Z</date>
+  <millis>1665573347319</millis>
+  <nanos>842100</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T11:36:52.041363400Z</date>
+  <millis>1665574612041</millis>
+  <nanos>363400</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:36:52.119634500Z</date>
+  <millis>1665574612119</millis>
+  <nanos>634500</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:36:52.121630900Z</date>
+  <millis>1665574612121</millis>
+  <nanos>630900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:36:52.123624500Z</date>
+  <millis>1665574612123</millis>
+  <nanos>624500</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:36:52.125624800Z</date>
+  <millis>1665574612125</millis>
+  <nanos>624800</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+<record>
+  <date>2022-10-12T11:37:30.869166300Z</date>
+  <millis>1665574650869</millis>
+  <nanos>166300</nanos>
+  <sequence>5</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro [Official Video] Daft Punk - Pentatonix\.mp4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T15:30:21.452587Z</date>
+  <millis>1665588621452</millis>
+  <nanos>587000</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:30:21.497528500Z</date>
+  <millis>1665588621497</millis>
+  <nanos>528500</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:30:21.500523400Z</date>
+  <millis>1665588621500</millis>
+  <nanos>523400</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:30:21.500523400Z</date>
+  <millis>1665588621500</millis>
+  <nanos>523400</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:30:21.501522Z</date>
+  <millis>1665588621501</millis>
+  <nanos>522000</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T15:36:05.003294400Z</date>
+  <millis>1665588965003</millis>
+  <nanos>294400</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:36:05.085493100Z</date>
+  <millis>1665588965085</millis>
+  <nanos>493100</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:36:05.087607800Z</date>
+  <millis>1665588965087</millis>
+  <nanos>607800</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:36:05.088208600Z</date>
+  <millis>1665588965088</millis>
+  <nanos>208600</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:36:05.089215600Z</date>
+  <millis>1665588965089</millis>
+  <nanos>215600</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T15:39:16.345401Z</date>
+  <millis>1665589156345</millis>
+  <nanos>401000</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:39:16.378035Z</date>
+  <millis>1665589156378</millis>
+  <nanos>35000</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:39:16.379399500Z</date>
+  <millis>1665589156379</millis>
+  <nanos>399500</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:39:16.379399500Z</date>
+  <millis>1665589156379</millis>
+  <nanos>399500</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:39:16.380398600Z</date>
+  <millis>1665589156380</millis>
+  <nanos>398600</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T15:55:44.867113300Z</date>
+  <millis>1665590144867</millis>
+  <nanos>113300</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:55:44.939097200Z</date>
+  <millis>1665590144939</millis>
+  <nanos>97200</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:55:44.940212700Z</date>
+  <millis>1665590144940</millis>
+  <nanos>212700</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:55:44.940212700Z</date>
+  <millis>1665590144940</millis>
+  <nanos>212700</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-12T15:55:44.941098600Z</date>
+  <millis>1665590144941</millis>
+  <nanos>98600</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
