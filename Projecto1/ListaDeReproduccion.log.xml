@@ -2131,3 +2131,131 @@
   <thread>20</thread>
   <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
 </record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-19T09:24:03.872792200Z</date>
+  <millis>1666171443872</millis>
+  <nanos>792200</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:03.898792700Z</date>
+  <millis>1666171443898</millis>
+  <nanos>792700</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:03.899793Z</date>
+  <millis>1666171443899</millis>
+  <nanos>793000</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:03.899793Z</date>
+  <millis>1666171443899</millis>
+  <nanos>793000</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:03.900795Z</date>
+  <millis>1666171443900</millis>
+  <nanos>795000</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-19T09:24:24.391205500Z</date>
+  <millis>1666171464391</millis>
+  <nanos>205500</nanos>
+  <sequence>0</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:24.437553600Z</date>
+  <millis>1666171464437</millis>
+  <nanos>553600</nanos>
+  <sequence>1</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero Fichero erroneo Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:24.438553900Z</date>
+  <millis>1666171464438</millis>
+  <nanos>553900</nanos>
+  <sequence>2</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero No del grupo.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:24.439732600Z</date>
+  <millis>1666171464439</millis>
+  <nanos>732600</nanos>
+  <sequence>3</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] Daft Punk - Pentatonix.mp4</message>
+</record>
+<record>
+  <date>2022-10-19T09:24:24.440553900Z</date>
+  <millis>1666171464440</millis>
+  <nanos>553900</nanos>
+  <sequence>4</sequence>
+  <logger>ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Procesando fichero [Official Video] I Need Your Love - Pentatonix (Calvin Harris feat. Ellie Goulding Cover).mp4</message>
+</record>
+</log>
